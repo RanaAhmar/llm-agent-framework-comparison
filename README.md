@@ -1,3 +1,5 @@
+[![Stars](https://img.shields.io/github/stars/RanaAhmar/llm-agent-framework-comparison?style=for-the-badge)](https://github.com/RanaAhmar/llm-agent-framework-comparison/stargazers) [![Issues](https://img.shields.io/github/issues/RanaAhmar/llm-agent-framework-comparison?style=for-the-badge)](https://github.com/RanaAhmar/llm-agent-framework-comparison/issues) [![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://github.com/RanaAhmar/llm-agent-framework-comparison/blob/main/LICENSE)
+
 # 🤖 LLM Agent Framework Comparison
 
 Which framework is right for your AI agent? Deep dive into CrewAI, LangChain, and Microsoft AutoGen. By **Ahmar Hussain** (**Stackaura**).
@@ -33,6 +35,18 @@ If you found this tool useful, check out our other high-performance web utilitie
 ---
 
 
+
+
+---
+### 🌟 Part of the [Stackaura](https://github.com/RanaAhmar) Ecosystem
+*Empowering developers with automated tools and high-performance solutions.*
+
+**Explore more:**
+- 🚀 [All Projects](https://github.com/RanaAhmar?tab=repositories)
+- 🛠️ [Daily Coding Tips](https://github.com/RanaAhmar/daily-coding-tips)
+- 📊 [Profile Dashboard](https://github.com/RanaAhmar/RanaAhmar)
+
+*If you find this project useful, please consider giving it a star! ⭐*
 
 
 ---
